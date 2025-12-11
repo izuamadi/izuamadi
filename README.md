@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full-Stack Developer
 -----------------------------
 
-I am a Computer Science Honours student at Carleton University in the AI & ML stream. I’m deeply interested in how intelligent systems learn, adapt, and solve real challenges—and I enjoy building full-stack applications where I can bring those ideas to life. I’m not just learning to code; I’m working to understand how technology can shape people’s experiences and open doors to new possibilities.
+### About Me
+I am a 3rd year Computer Science Honours student at Carleton University in the AI & ML stream. I’m deeply interested in how intelligent systems learn, adapt, and solve real challenges—and I enjoy building full-stack applications where I can bring those ideas to life. I’m not just learning to code; I’m working to understand how technology can shape people’s experiences and open doors to new possibilities.
 
 A big part of my personality is self-development, both in coding and in life. Every project I take on isn’t just about getting something to run—it’s about becoming the kind of person who can create autonomous, meaningful, scalable systems that make a real impact. I’m always pushing myself to refine my skills, stay curious, and learn from every challenge. Whether it’s in code or life in general, my main focus is figuring out how to be better, and ultimately turning that growth into something that can help others. For me, writing software is another way of becoming someone who adds value and contributes to something bigger than myself.
 
@@ -15,7 +16,7 @@ Outside school and drowning myself in code, I enjoys watching movies and series,
 * 🧠  I'm currently learning AWS and other cloud technologies
 * 👥  I'm looking to collaborate on interesting projects and cool business ideas
 
-##Skills
+### Skills
 🖥️ Frontend
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> </p>
 
