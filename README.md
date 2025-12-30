@@ -9,7 +9,7 @@ I am a 3rd year Computer Science Honours student at Carleton University in the A
 
 A big part of my personality is self-development, both in coding and in life. Every project I take on isn’t just about getting something to run—it’s about becoming the kind of person who can create autonomous, meaningful, scalable systems that make a real impact. I’m always pushing myself to refine my skills, stay curious, and learn from every challenge. Whether it’s in code or life in general, my main focus is figuring out how to be better, and ultimately turning that growth into something that can help others. 
 
-Outside school and drowning myself in code, I enjoy watching movies and series, especially anything with great storytelling. I love cooking and experimenting with new recipes that feel comforting after a long day. I also spend time at the gym, where training helps me stay disciplined, focused, and balanced—qualities that naturally flow back into my work as a developer.
+Outside school and drowning myself in code, I enjoy watching movies and series, especially anything with great storytelling. I love cooking and experimenting with new recipes that feel comforting after a long day. I also spend time at the gym, where training helps me stay focused and disciplined 
 
 * 🌍  I'm based in Ottawa, Canada
 * ✉️  You can contact me at [izuamadi2406@gmail.com](mailto:izuamadi2406@gmail.com) or [izuchukwuamadi@cmail.carleton.ca](mailto:izuchukwuamadi@cmail.carleton.ca) 
